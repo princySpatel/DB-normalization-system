@@ -26,8 +26,8 @@ Unlike simple rule-based scripts, this engine utilizes pure relational algebra:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/dbms-normalization-engine.git](https://github.com/yourusername/dbms-normalization-engine.git)
-cd dbms-normalization-engine
+git clone [https://github.com/princySpatel/DB-normalization-system.git](https://github.com/princySpatel/DB-normalization-system.git)
+cd DB-normalization-system
 ```
 ```bash
 # Install the required dependencies (Streamlit and core utilities)
